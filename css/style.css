@@ -1,0 +1,30 @@
+h1 {
+
+  color: #BA55D3;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 80pt;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  }
+
+  h2 {
+
+    color: #51101E;
+    font-family: 'Dancing Script', cursive;
+    font-size: 60pt;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+      }
+
+#collective{
+    color: red;
+    font-size: 40pt;
+}
+
+
+p{
+  font-family: 'Dancing Script', cursive;
+  font-size: 25pt;
+}
